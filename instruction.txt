@@ -1,0 +1,6 @@
+1. Make sure nodejs and npm is installed in your system.
+2. Make sure mongodb is installed and is running.
+3. Clone the repository.
+4. Run `npm install` to install all the dependencies.
+5. Run `npm run dev` to start the server.
+6. Open the browser and go to `http://localhost:3000/` to see the application.
